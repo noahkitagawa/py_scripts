@@ -1,6 +1,6 @@
 <details>
 <summary>项目重建了，记录一下历史数据</summary>
-写在前面，本项目重建了，由于之前教别人更新fork的项目，导致本项目被提交了一些pull requests，而且不知怎么的还变成了Contributor，非常无语，经过思虑再三，决定删除重建。重建后，之前的star和fork全部重置，如果你之前已经fork了，那么之间的关联自动解除，即在你的项目页面不会再展示“Fork from [Arronlong/py_scripts](https://github.com/Arronlong/py_scripts)”。好吧，把之前的项目数据记录一下：
+写在前面，本项目重建了，由于之前教别人更新fork的项目，导致本项目被提交了一些pull requests，而且不知怎么的还变成了Contributor，非常无语，经过思虑再三，决定删除重建。重建后，之前的star和fork全部重置，如果你之前已经fork了，那么之间的关联自动解除，即在你的项目页面不会再展示“Fork from [Arronlong/py_scripts](https://github.com/Arronlong/py_scripts)”。好吧，把之前的项目数据记录一下：gsdflgvsfv
 
 ![images-20200709171538](https://cdn.jsdelivr.net/gh/Arronlong/cdn/blogImg/20200709171538.png)
 
@@ -39,7 +39,7 @@ python脚本集，有原创的，也有站在巨人的肩膀上做的修改版�
 ![](http://tu.yaohuo.me/imgs/2020/06/748bf9c0ca6143cd.png)
 
 ## 三、启用Action
-
+fdsfbsdb
 1 点击**Action**，再点击**I understand my workflows, go ahead and enable them**  
 2 修改任意文件后提交一次  
 ![](http://tu.yaohuo.me/imgs/2020/06/34ca160c972b9927.png)
